@@ -1,3 +1,8 @@
+InvalidOperation: 
+Line |
+   5 |  $readmeText = $readmeText -replace '(?s)(## 📈 Atividade recente\s*). …
+     |                            ~~~~~~~~
+     | The -replace operator allows only two elements to follow it, not 3.
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=230&section=header&text=Matheus%20Souza&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Desenvolvedor%20em%20evolu%C3%A7%C3%A3o%20%E2%80%A2%20Web%20%E2%80%A2%20Node.js&descSize=18&descAlignY=58" alt="Matheus Souza — Desenvolvedor em evolução" width="100%" />
@@ -8,7 +13,6 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Mathdv1&label=Visitas&color=8b5cf6&style=for-the-badge" alt="Visitas" />
 <img src="https://img.shields.io/github/followers/Mathdv1?label=Seguidores&style=for-the-badge&logo=github&color=6d28d9" alt="Seguidores" />
 <img src="https://img.shields.io/github/stars/Mathdv1?label=Stars&style=for-the-badge&logo=github&color=7c3aed" alt="Stars" />
 
@@ -67,16 +71,6 @@ const matheus = {
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=Mathdv1&theme=tokyonight&hide_border=true&background=0d1117&ring=8b5cf6&fire=a78bfa&currStreakLabel=a78bfa" alt="Streak" />
-
-</div>
-
----
-
-## 🏆 Troféus
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Mathdv1&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
 
 </div>
 
