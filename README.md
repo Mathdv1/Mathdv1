@@ -108,6 +108,10 @@ const matheus = {
   <img src="https://img.shields.io/badge/GitHub-Mathdv1-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
+<a href="https://www.linkedin.com/in/matheus-souza-498b36331/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn de Matheus Souza" />
+</a>
+
 </div>
 
 <div align="center">
