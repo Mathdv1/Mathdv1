@@ -1,8 +1,3 @@
-InvalidOperation: 
-Line |
-   5 |  $readmeText = $readmeText -replace '(?s)(## 📈 Atividade recente\s*). …
-     |                            ~~~~~~~~
-     | The -replace operator allows only two elements to follow it, not 3.
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=230&section=header&text=Matheus%20Souza&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Desenvolvedor%20em%20evolu%C3%A7%C3%A3o%20%E2%80%A2%20Web%20%E2%80%A2%20Node.js&descSize=18&descAlignY=58" alt="Matheus Souza — Desenvolvedor em evolução" width="100%" />
@@ -101,11 +96,7 @@ const matheus = {
 
 ## 📈 Atividade recente
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mathdv1&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=ffffff&area=true&area_color=8b5cf6" alt="Activity Graph" width="95%" />
-
-</div>
+[Acompanhe meus commits e contribuições no GitHub](https://github.com/Mathdv1?tab=overview).
 
 ---
 
