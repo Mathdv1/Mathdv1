@@ -2,12 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=230&section=header&text=Matheus%20Souza&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Desenvolvedor%20em%20evolu%C3%A7%C3%A3o%20%E2%80%A2%20Web%20%E2%80%A2%20Node.js&descSize=18&descAlignY=58" alt="Matheus Souza — Desenvolvedor em evolução" width="100%" />
 
-<br />
-
-<img src="https://raw.githubusercontent.com/Mathdv1/portfolio-matheus/main/assets/matheus-profile.jpg" alt="Foto de Matheus Souza" width="180" />
-
-<br /><br />
-
 <a href="https://github.com/Mathdv1">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=640&lines=Ol%C3%A1%2C+eu+sou+o+Matheus+%F0%9F%91%8B;Transformo+ideias+em+c%C3%B3digo+%F0%9F%9A%80;Aprendendo+algo+novo+todos+os+dias+%F0%9F%93%9A;Construindo+sites+e+apps+%F0%9F%92%BB" alt="Typing SVG" />
 </a>
